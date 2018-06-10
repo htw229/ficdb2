@@ -1,3 +1,1 @@
-# ficdb2
-
-this is a readme
+# ficdb readme
